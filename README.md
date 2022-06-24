@@ -7,6 +7,6 @@ Pegando este script en la consola de las herrameintas de desarrollador de chromi
 document.getElementsByTagName("body")[0].style.overflow = 'hidden';
 document.getElementsByTagName("body")[0].style.margin = 0;
 let canvas = document.getElementsByTagName("canvas")[0];
-canvas.stye.position = 'absolute';
-canvas.stye.margin = 0;
-canvas.stye.width = '100%';
+canvas.style.position = 'absolute';
+canvas.style.margin = 0;
+canvas.style.width = '100%';
