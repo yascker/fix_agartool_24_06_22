@@ -9,4 +9,4 @@ document.getElementsByTagName("body")[0].style.margin = 0;
 let canvas = document.getElementsByTagName("canvas")[0];
 canvas.stye.position = 'absolute';
 canvas.stye.margin = 0;
-
+canvas.stye.width = '100%';
