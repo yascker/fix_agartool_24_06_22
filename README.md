@@ -10,3 +10,4 @@ document.getElementsByClassName("offerwall-btn")[0].style.display = 'none';
 let canvas = document.getElementsByTagName("canvas")[0];
 canvas.style.position = 'absolute';
 canvas.style.margin = 0;
+canvas.style.width = '100%';
